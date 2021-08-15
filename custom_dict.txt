@@ -54,6 +54,7 @@ Aino
 [Aa]ir-[Gg]apped
 airgap(ped)?
 Alertmanager
+Aletty
 Alexa
 Alexey
 Alibaba
@@ -100,6 +101,7 @@ Artifactory
 artisanal
 Asciidoctor
 ASG(s)?
+Ashok
 Asiedu-Ampem
 aspirational
 Astra
@@ -148,6 +150,8 @@ basicBridgeDestroy
 basicBridgePut
 batchesDistributed
 BatchScheduler
+Baxter
+BEA
 Becki
 Beda('s)?
 beforeEnqueue
@@ -266,6 +270,7 @@ ClientProxyMembershipID
 Clojure
 closeRegion
 CloudEvents
+Cloudflare
 CloudHealth
 CloudNativeCon
 CloudWatch
@@ -369,9 +374,11 @@ D2iQ
 [Dd]aemonSet(s)?
 Dalia
 Damasceno
+danluu
 DAO
 DaoAuthenticationProvider
 DaShaun
+dastergon
 [Dd]ata(set|store)
 datacenter(s|'s)?
 Datadog
@@ -430,6 +437,7 @@ Dieu
 differentiators
 Dikastes
 DirtiesContext
+disambiguated
 DiscoveryClient
 DiskRegionStatistics
 DiskStore
@@ -520,6 +528,7 @@ EventID
 eventQueueSize
 eventsDistributed
 eventsQueued
+Evie
 [Ee]xecutables
 expander(s)?
 expensed
@@ -549,6 +558,7 @@ FIPS(-enabled|-approved)?
 firewalling
 Fiscus
 Flake8
+flatlined
 Florea
 Florent
 [fF]luent[Bb]it
@@ -648,6 +658,7 @@ ghostPassword
 ghostUsername
 Gibb
 GIDS
+Gilardi
 [Gg]it[Ff]low
 [Gg]it[Ll]ab('s|-managed)?
 [Gg]ithub
@@ -695,6 +706,7 @@ gzip(ped)?
 H2
 Hadlow
 Hamano
+Hananiel
 handleNotification
 handleWANEvent
 handoff(s)?
@@ -702,6 +714,7 @@ HAProxy
 [hH]ardcoded
 HashiCorp('s)?
 hasResult
+HATEOAS
 Hayk
 Haytham
 Heartbleed
@@ -714,8 +727,10 @@ Herbrich
 hermeticism
 Heroku('s)?
 High-Cardinality
+Hillegass
 Hinojosa
 HMAC
+Hobsons
 hoc
 Hockin
 Homebrew
@@ -832,6 +847,7 @@ JIRAs
 Jitsu
 Jiu
 jks
+JKS
 JMX
 JmxConnectionHandler
 JmxNotificationClient
@@ -863,6 +879,7 @@ Junio
 junit
 Junit
 JUnit
+junky
 Jupyter(Hub|Lab)?
 JVM's
 JVM(-based)?
@@ -891,6 +908,7 @@ keySet
 keySetOnServer
 keySets
 keyspace
+KeyStore
 KIAM
 Kibana
 kitesurfing
@@ -1102,6 +1120,7 @@ Natively
 natively
 Neatro
 Neeharika
+Neha
 Nenad
 Neo4j
 Nesterov
@@ -1197,6 +1216,7 @@ OWASP
 P2P
 Pacak
 Packer
+Packt('s)?
 PagerDuty
 Pairmate
 Paketo
@@ -1232,6 +1252,7 @@ PdxInstances
 PdxType
 PdxTypes
 PeerAuthentication
+PEM
 per-namespace
 Percona
 [Pp]erformant
@@ -1269,6 +1290,7 @@ Poppendieck
 [Pp]ortieris
 [Pp]ortlet(s)?
 [Pp]ost-mortem
+[Pp]ost-mortem(s)?
 Postfacto
 [Pp]ostgres
 POSTROUTING
@@ -1447,6 +1469,8 @@ samplehost(:[0-9]*)?
 sandbox(ing)?
 sandboxed
 Sanderson
+Sardana
+Sarella
 SAT(s)?
 Sathe
 Savla
@@ -1525,6 +1549,7 @@ SNI
 SolidFire
 Soluto('s)?
 SomeRegion
+SonicDMG
 [Ss]onobuoy
 Sox
 [Ss]peedback
@@ -1592,7 +1617,7 @@ Syer
 symposia
 Sysdig
 Szul
-Tanzu(Developer)?
+Tanzu(Developer|'s)?
 targetPort
 Tarin
 TAS
@@ -1721,7 +1746,9 @@ Vavr
 VCAP
 vCenter
 VCS
+Vega
 Velero('s)?
+Vendio
 vendored
 Venkat
 Venkateswara
