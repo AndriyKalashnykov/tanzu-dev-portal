@@ -89,6 +89,7 @@ APIs?
 APM
 AppArmor
 AppDynamics
+Appel
 appender
 application-centric
 ApplicationEvent
@@ -450,6 +451,7 @@ DestinationRule
 developer-centric
 DevNexus
 Devoops
+DEVOPS
 DevOps(-related)?
 DevOpsDays(KC)?
 DevSecOps
@@ -460,6 +462,7 @@ diehard
 Dieruf
 Dieu
 differentiators
+DigiSign
 Dikastes
 DirtiesContext
 disambiguated
@@ -521,6 +524,7 @@ Eads
 eBPF
 EBS
 EC2
+ECE
 echoserver
 EclipseLink
 ECMP
@@ -557,6 +561,7 @@ Enums
 [Ee]nv
 EOF
 ESB
+ESRI
 etcd(ctl)?
 Ethereum
 [Ee]thernet(s)?
@@ -706,6 +711,7 @@ ghostUsername
 Gibb
 GIDS
 Gilardi
+GIS
 [Gg]it[Ff]low
 [Gg]it[Ll]ab('s|-managed)?
 [Gg]ithub
@@ -749,6 +755,7 @@ Groupon
 gRPC(-based)?
 Grygleski
 Grzejszczak
+GSB
 GUID(s)?
 Gunicorn
 Guntur
@@ -821,6 +828,7 @@ imgpkg
 IMmUjUjBzes
 [Ii]mpactful
 implementors
+imposter
 [Ii]ncentivized
 [Ii]ncompressible
 InfoQ
@@ -905,6 +913,7 @@ JFrog
 JHipster
 Jiang
 Jie
+jimwebber
 JIRAs
 Jitsu
 Jiu
@@ -1014,6 +1023,7 @@ KubeApps
 KubeCon
 [Kk]ubeconfig
 KUBECONFIG
+KUBECTL
 [kK]ubectl
 kubectl
 kubectx
@@ -1026,6 +1036,7 @@ Kubernetes-Secrets-Store-CSI-Driver
 kubernetes-vault-kms-plugin
 [Kk]ubernetes(.|-native|-specific|-centric|-based|-related)?
 kubeseal
+Kubeseal
 KUDO
 [kK]ustomize
 KUTTL
@@ -1035,6 +1046,7 @@ lastAccessedTime
 latencies
 Lazu
 LDAP
+[Ll]eaderboard
 LeafRegionEntry
 [Ll]earnings
 lego
@@ -1101,6 +1113,8 @@ MARIADB-(ADMIN|REPL)-PASSWORD
 Masala
 matchers
 matchings
+mattstratton
+[Mm]atty
 maxUtilization
 Mayers
 MBeans
@@ -1195,6 +1209,7 @@ Neeharika
 Neha
 Nenad
 Neo4j
+Neo4j's
 Nesterov
 NetApp('s)?
 Netty(-based)?
@@ -1431,6 +1446,7 @@ PSP(s)?
 PubSub(bing)?
 Pulkit
 pullPolicy
+Pulumi
 pushable
 putAll
 PuTTYgen
@@ -1585,6 +1601,7 @@ Schutta
 Schwaber
 screencaster
 SCS
+SDD
 SDK(s)?
 SDS
 seaborn
@@ -1697,6 +1714,7 @@ Storbakken
 StoreAllCachedDeserializable
 strategizing
 Strategyzer
+Stratton
 StringBuilder
 struct
 STT
@@ -1807,6 +1825,7 @@ TypeRegistry
 (U)?UID(s)?
 UAA
 [Uu]ber
+UC
 UCD
 UDP
 UI(s|-based)?
@@ -1869,6 +1888,7 @@ Vendio
 vendored
 Venkat
 Venkateswara
+verifiably
 versioned
 VersionTag
 VerticalPodAutoscaler
@@ -1912,6 +1932,7 @@ waypoints
 WCF
 webapp
 webapps_default
+Webber
 WeBeFoods
 WebFlux
 [Ww]ebhook(-based|s)?
